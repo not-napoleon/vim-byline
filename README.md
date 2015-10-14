@@ -30,6 +30,8 @@ iab MT <C-R>=BylineInsert()<cr>
 Change `MT` to a sequence you don't type often.  As with any abbreviation, you
 can use `<c-v>` after typing it to get the literal text.
 
+The default output looks something like `--Anon(13 Oct 2015 23:27:21)`
+
 
 ## Prior work
 This is based off a vim tip for inserting the current date:
